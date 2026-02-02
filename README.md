@@ -1,4 +1,4 @@
-# Tokobuku – Your Smart Library
+# Tokobuku - Your Smart Library
 
 Tokobuku is a full-stack web application built with the MERN stack for managing and selling books online. The platform supports user and admin authentication, persistent shopping carts, secure transactions, and complete content management features.
 
